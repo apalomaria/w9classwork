@@ -1,0 +1,16 @@
+.big {
+  height: 200px;
+  width: 200px;
+}
+
+.red {
+  background-color: #ffcccc;
+}
+
+.yellow {
+  background: #ffccb3;
+}
+
+img {
+  height: 200px;
+}
